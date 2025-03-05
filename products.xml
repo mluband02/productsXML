@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "products.css" ?>
+
+<products>
+    <product>
+        <name>Wireless Earbuds</name>
+        <price>$59.99</price>
+        <description>Noise-cancelling Bluetooth earbuds</description>
+        <categories>
+            <category>Electronics</category>
+            <category>Music</category>
+        </categories>
+    </product>
+    <product>
+        <name>Classic Backpack</name>
+        <price>$59.99</price>
+        <description>Water-resistent backpack with three compartments</description>
+        <categories>
+            <category>Education</category>
+            <category>Travel</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPhone 15 Case</name>
+        <price>$14.99</price>
+        <description>Protective case for iPhone 15</description>
+        <categories>
+            <category>Electronics</category>
+            <category>Accesories</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPhone 15 Screen Protector</name>
+        <price>$14.99</price>
+        <description>Saphire screen protector for iPhone 15</description>
+        <categories>
+            <category>Electronics</category>
+            <category>Accesories</category>
+        </categories>
+    </product>
+    <product>
+        <name>Portable Record Player</name>
+        <price>$199.99</price>
+        <description>Classic style record player with built-in speakers</description>
+        <categories>
+            <category>Music</category>
+        </categories>
+    </product>
+    <product>
+        <name>Insulated Water Bottle</name>
+        <price>$35.00</price>
+        <description>Lightweight insulated water bottle made out of stainless steel</description>
+        <categories>
+            <category>Travel</category>
+            <category>Sports</category>
+        </categories>
+    </product>
+    <product>
+        <name>Electric Tooth Brush</name>
+        <price>$39.99</price>
+        <description>Electric tooth brush with replacable head powered by AA bateries</description>
+        <categories>
+            <category>Health</category>
+            <category>Electronics</category>
+        </categories>
+    </product>
+    <product>
+        <name>Robot Vacuum</name>
+        <price>$149.99</price>
+        <description>Smart robot vacuum with companion app</description>
+        <categories>
+            <category>Home</category>
+            <category>Electronics</category>
+        </categories>
+    </product>
+</products>
